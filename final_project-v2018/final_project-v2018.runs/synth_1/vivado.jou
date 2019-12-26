@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Oct 18 21:17:32 2019
+# Process ID: 7364
+# Current directory: /home/nicola/Vivado/vivado_projects/final_project-v2018/final_project-v2018.runs/synth_1
+# Command line: vivado -log top_level.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_level.tcl
+# Log file: /home/nicola/Vivado/vivado_projects/final_project-v2018/final_project-v2018.runs/synth_1/top_level.vds
+# Journal file: /home/nicola/Vivado/vivado_projects/final_project-v2018/final_project-v2018.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source top_level.tcl -notrace

@@ -1,0 +1,2 @@
+ila_2.vhd,vhdl,xil_defaultlib,../../../../final_project-v2018.srcs/sources_1/ip/ila_2/sim/ila_2.vhd,incdir="../../../../final_project-v2018.srcs/sources_1/ip/ila_2/hdl/verilog"
+glbl.v,Verilog,xil_defaultlib,glbl.v
