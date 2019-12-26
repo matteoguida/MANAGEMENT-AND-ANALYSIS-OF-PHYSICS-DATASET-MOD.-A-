@@ -3,7 +3,15 @@ FPGA Project Using Vivado
 ## General Information
 [**FPGA Serial Number**](https://www.amazon.com/Digilent-Arty-A7-Development-Hobbyists/dp/B017BOBNEO): xc7a35tcsg324-1
 
-###  Project Description 
+## Project
+### Authors:
+
+- [Francesco Vidaich](https://github.com/francescovidaich964) (University of Padova)
+- [Stefano Mancone](https://github.com/mango915) (University of Padova)
+- [Nicola Dainese](https://github.com/nicoladainese96) (University of Padova)
+- [Matteo Guida](https://github.com/matteoguida) (University of Padova)
+
+###  Description 
 The aim of this project is to create a particular FPGA architecture that do various operations. 
 The core components are:
 1. The **SPI master**, that has to read the first 2 addresses in the flash memory, concatenate them and write them
@@ -20,3 +28,4 @@ apply to them the fir filter and write the result back into the DPRAM.
 4. **Multiplexer** that has the task of regulating access to the DPRAM
 from the square wave generator and the fir filter, since they both have to access to the same addresses of
 memory.
+In the Final_report.pdf file you can find a more detailed description and some results.
